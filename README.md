@@ -1,5 +1,5 @@
 Piyush's Portfolio Website
-Welcome to my portfolio website hosted on GitHub! This website showcases my skills, projects, and experiences as a Java Fll Stack Developer and serves as an online portfolio for potential employers and collaborators.
+Welcome to my portfolio website hosted on GitHub! This website showcases my skills, projects, and experiences as a Java Full Stack Developer and serves as an online portfolio for potential employers and collaborators.
 
 **Live Website**
 You can visit my portfolio website at https://piyush-12-03.github.io/Piyush-portfolio/
